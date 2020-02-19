@@ -17,7 +17,7 @@
 ## Now try to identify 3-4 values that are most important to you at this point in time. There is no need to limit yourself to the words on this list. The following questions may help:
 
 * Security
-* Happiness. What's the difference between happiness and Pleasure? Pleasure == ephemeral and externally derived?
+* Contentment (Replaced happiness, which replaced pleasure)
 * Kindness
 * Humor
 
